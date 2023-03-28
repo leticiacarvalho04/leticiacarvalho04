@@ -1,6 +1,6 @@
-## Hi, I'm there! 👋
+## Hey people! 👋
 
-<h3>:bar_chart: GitHub Stats:
+<h3>:bar_chart: GitHub Stats: </h3>
   
 <div align="center">
   <a href="https://github.com/leticiacarvalho04">
