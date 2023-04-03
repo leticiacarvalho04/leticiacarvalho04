@@ -1,5 +1,7 @@
 ## Hey people! 👋
 
+[<img style="margin-left: 60px" src=giphy.gif height=805>](https://media0.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif?cid=ecf05e47nglu7zv1hh8582unrtjgjweli029u5hzktjq2kig&rid=giphy.gif&ct=g)] &nbsp;
+
 <h3>:bar_chart: GitHub Stats: </h3>
   
 <div align="center">
