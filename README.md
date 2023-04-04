@@ -1,4 +1,4 @@
-## Hey people! 👋
+## Welcome to my profile! 💜
 
 <div>
 <p align=center>
