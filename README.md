@@ -18,13 +18,13 @@
 <h3>Softwares I know worked with:</h3>
 
 <p>
-    <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=4B70F1"></img>&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=4B70F1"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=4B70F1"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Ubuntu-151515?style=for-the-badge&logo=ubuntu&logoColor=4B70F1"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=4B70F1"></img>&nbsp;   
-    <img src="https://img.shields.io/badge/Oracle-151515?style=for-the-badge&logo=oracle&logoColor=4B70F1"></img>&nbsp;
-    <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=4B70F1"></img>&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=602D9B"></img>&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=602D9B"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=602D9B"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Ubuntu-151515?style=for-the-badge&logo=ubuntu&logoColor=602D9B"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=602D9B"></img>&nbsp;   
+    <img src="https://img.shields.io/badge/Oracle-151515?style=for-the-badge&logo=oracle&logoColor=602D9B"></img>&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=602D9B"></img>&nbsp;
 </p>
 
 <br>
@@ -32,6 +32,6 @@
 
   ## 🔗 Links
 <p>
-  <a href="[https://www.linkedin.com/in/matheus-henrique-lemes-sakuragui/](https://www.linkedin.com/in/let%C3%ADcia-helena-03b294255/)"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=602D9B"/></a>
+  <a href="[https://www.linkedin.com/in/leticia-helena-carvalho/](https://www.linkedin.com/in/let%C3%ADcia-helena-03b294255/)"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=602D9B"/></a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=leticiahelena.oliver@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=602D9B"/></a>
   <a href="[https://discord.com/users/661334263127605291](https://www.instagram.com/carvalho_leticia04/)"><img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=602D9B"/></a>
