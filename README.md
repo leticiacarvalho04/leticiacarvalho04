@@ -1,8 +1,9 @@
 ## Hey people! 👋
 
 <div>
-<img src="giphy.gif" padding="25px 50px 75px"> 
-
+<p align=center>
+<img width=400 src="giphy.gif" />
+</p>
 </div>
 
 <h3>:bar_chart: GitHub Stats: </h3>
