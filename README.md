@@ -21,9 +21,7 @@
     <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=602D9B"></img>&nbsp;
     <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=602D9B"></img>&nbsp;
     <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=602D9B"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Ubuntu-151515?style=for-the-badge&logo=ubuntu&logoColor=602D9B"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=602D9B"></img>&nbsp;   
-    <img src="https://img.shields.io/badge/Oracle-151515?style=for-the-badge&logo=oracle&logoColor=602D9B"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Ubuntu-151515?style=for-the-badge&logo=ubuntu&logoColor=602D9B"></img>&nbsp;   
     <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=602D9B"></img>&nbsp;
 </p>
 
