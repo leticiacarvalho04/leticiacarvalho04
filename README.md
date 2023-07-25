@@ -2,7 +2,7 @@
 
 <div>
 <p align=center>
-<img width=400 src="giphy.gif" />
+<img width=400 src="girl-programmer.gif" />
 </p>
 </div>
 
