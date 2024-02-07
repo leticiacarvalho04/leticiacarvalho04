@@ -18,17 +18,20 @@
 <h3>Softwares I'm learning and I know how to work:</h3>
 
 <p>
-    <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=602D9B"></img>&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=602D9B"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=602D9B"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Ubuntu-151515?style=for-the-badge&logo=ubuntu&logoColor=602D9B"></img>&nbsp;   
-    <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=602D9B"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Unity-151515?style=for-the-badge&logo=unity&logoColor=602D9B"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Amazon_AWS-151515?style=for-the-badge&logo=amazon-aws&logoColor=602D9B"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=602D9B"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=602D9B"></img>&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=602D9B"></img>&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=602D9B">&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=602D9B">&nbsp;
+    <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=602D9B">&nbsp;
+    <img src="https://img.shields.io/badge/Ubuntu-151515?style=for-the-badge&logo=ubuntu&logoColor=602D9B">&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=602D9B">&nbsp;
+    <img src="https://img.shields.io/badge/Unity-151515?style=for-the-badge&logo=unity&logoColor=602D9B">&nbsp;
+    <img src="https://img.shields.io/badge/Amazon_AWS-151515?style=for-the-badge&logo=amazon-aws&logoColor=602D9B">&nbsp;
+    <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=602D9B">&nbsp;
+    <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=602D9B">&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=602D9B">&nbsp;
+    <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=602D9B">&nbsp;
+    <img src="https://img.shields.io/badge/NodeJS-151515?style=for-the-badge&logo=nodejs&logoColor=602D9B">&nbsp;
 </p>
+
 
 <br>
 
