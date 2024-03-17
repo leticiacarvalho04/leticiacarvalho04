@@ -1,44 +1,38 @@
-## Welcome to my profile! 💜
+# Welcome to my profile! 💜
 
-<div>
-<p align=center>
-<img width=400 src="girl-programmer.gif" />
+<img width=400 align="right" src="girl-programmer.gif" />
+
+<h3>Softwares I'm learning and proficient in:</h3>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Unity-151515?style=for-the-badge&logo=unity&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Amazon_AWS-151515?style=for-the-badge&logo=amazon-aws&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=node.js&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=41C9E2">&nbsp;
 </p>
-</div>
+
+<h3>🔗 Links</h3>
+<p>
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-helena-03b294255/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=41C9E2"/></a>
+  <a href="mailto:leticiahelena.oliver@gmail.com"><img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=41C9E2"/></a>
+  <a href="https://www.instagram.com/carvalho_leticia04/"><img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=41C9E2"/></a>
+</p>
 
 <h3>:bar_chart: GitHub Stats: </h3>
-  
+
 <div align="center">
-  <a href="https://github.com/leticiacarvalho04">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiacarvalho04&custom_title=Letícia&nbsp;Helena&hide_border=true&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacarvalho04&custom_title=Letícia&nbsp;Helena&hide_border=true&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/leticiacarvalho04/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leticiacarvalho04&theme=react&show_icons=true" />
+  </a>
+  <a href="https://github.com/leticiacarvalho04/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiacarvalho04&layout=compact&langs_count=8&card_width=320&theme=react" />
+  </a>
 </div>
-
-  
-<h3>Softwares I'm learning and I know how to work:</h3>
-
-<p>
-    <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=602D9B">&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=602D9B">&nbsp;
-    <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=602D9B">&nbsp;
-    <img src="https://img.shields.io/badge/Ubuntu-151515?style=for-the-badge&logo=ubuntu&logoColor=602D9B">&nbsp;
-    <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=602D9B">&nbsp;
-    <img src="https://img.shields.io/badge/Unity-151515?style=for-the-badge&logo=unity&logoColor=602D9B">&nbsp;
-    <img src="https://img.shields.io/badge/Amazon_AWS-151515?style=for-the-badge&logo=amazon-aws&logoColor=602D9B">&nbsp;
-    <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=602D9B">&nbsp;
-    <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=602D9B">&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=602D9B">&nbsp;
-    <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=602D9B">&nbsp;
-    <img src="https://img.shields.io/badge/NodeJS-151515?style=for-the-badge&logo=nodejs&logoColor=602D9B">&nbsp;
-</p>
-
-
-<br>
-
-
-  ## 🔗 Links
-<p>
-  <a href="[https://www.linkedin.com/in/leticia-helena-carvalho/](https://www.linkedin.com/in/let%C3%ADcia-helena-03b294255/)"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=602D9B"/></a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=leticiahelena.oliver@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=602D9B"/></a>
-  <a href="[https://discord.com/users/661334263127605291](https://www.instagram.com/carvalho_leticia04/)"><img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=602D9B"/></a>
-  <a href="[https://trello.com/u/leticiahelena31/boards](https://trello.com/u/leticiahelena31/boards)"><img src="https://img.shields.io/badge/Trello-151515?style=for-the-badge&logo=trello&logoColor=602D9B"/></a>
