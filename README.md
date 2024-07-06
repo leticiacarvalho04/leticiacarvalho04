@@ -7,16 +7,21 @@
 <p align="left">
     <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Oracle-151515?style=for-the-badge&logo=oracle&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Unity-151515?style=for-the-badge&logo=unity&logoColor=41C9E2">&nbsp;
-    <img src="https://img.shields.io/badge/Amazon_AWS-151515?style=for-the-badge&logo=amazon-aws&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=node.js&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Redis-151515?style=for-the-badge&logo=redis&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Cassandra-151515?style=for-the-badge&logo=cassandra&logoColor=41C9E2">&nbsp;
+    <img src="https://img.shields.io/badge/Neo4J-151515?style=for-the-badge&logo=neo4j&logoColor=41C9E2">&nbsp;
 </p>
 
 <h3>🔗 Links</h3>
